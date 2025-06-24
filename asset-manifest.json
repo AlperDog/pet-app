@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pet-app/static/css/main.fb961db8.css",
+    "main.js": "/pet-app/static/js/main.046b67c9.js",
+    "static/js/488.5ce07a95.chunk.js": "/pet-app/static/js/488.5ce07a95.chunk.js",
+    "service-worker.js": "/pet-app/service-worker.js",
+    "index.html": "/pet-app/index.html",
+    "main.fb961db8.css.map": "/pet-app/static/css/main.fb961db8.css.map",
+    "main.046b67c9.js.map": "/pet-app/static/js/main.046b67c9.js.map",
+    "488.5ce07a95.chunk.js.map": "/pet-app/static/js/488.5ce07a95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb961db8.css",
+    "static/js/main.046b67c9.js"
+  ]
+}
