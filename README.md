@@ -53,3 +53,14 @@ A modern React application for pet lovers. Easily manage, view, and interact wit
 - Bootstrap
 - React Bootstrap
 - gh-pages
+
+## 👨‍💻 Author
+
+**Alper Doğramacı**
+
+- GitHub: [@AlperDog](https://github.com/AlperDog)
+- Portfolio: [https://alperdog.github.io/portfolio](https://alperdog.github.io/portfolio)
+
+---
+
+**Built with ❤️ by Alper Doğramacı**
